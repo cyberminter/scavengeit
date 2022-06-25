@@ -1,2 +1,2 @@
 # scavengeit
-scavengeit repo
+scavengeit
